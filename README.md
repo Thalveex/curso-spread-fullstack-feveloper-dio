@@ -1,1 +1,1 @@
-Repositório do desáfio do primeiro repositório da Dio
+Desafio do primeiro repositório da Dio
